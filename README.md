@@ -1,6 +1,8 @@
 # ConexaoQA
 ## _Crie um perfil/portfolio de QA, compartilhe posts e obtenha ajuda de outros QAs_
 
+Olá Pessoal, esse foi um Fork do projeto original de pehguerra, referencia em QA. Como saiu do ar o original, sigam as orientações abaixo, para rodar em localhost. Dúvidas? entre em contato.Sucesso!
+
 Aplicação para criar perfis de QA, compartilhar e postar dúvidas, dicas, vagas, ou qualquer assunto da área de qualidade de software.
 
 - Crie seu perfil
